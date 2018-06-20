@@ -1,0 +1,33 @@
+name: Skills
+title: Rated
+
+source:
+  - name: [VMware, vSphere and ESXi, SDDC Suite, NSX, VMware Virtual SAN, vVOL, vRealize Suite, vRealize Automation, vRealize Business for Cloud, vRealize Operations, vCloud Suite, VMware Horizon, vCloud Air, vCloud Director, VMware LogInsight, VMware Integrated Openstack (VIO)]
+    stars: 4
+
+  - name: [Shell, Python, TCL, Powershell, Java, Git, Gerrit]
+    stars: 4
+
+  - name: [C/C++, SmartTalk, Python, Go, HTML5/CSS3, Javascript, Ruby, SmartTalk, Perl, SQL]
+    stars: 3
+    
+  - name: [Linux, UNIX, Fedora, RHEL, CentOS, Ubuntu, Custom Kernels, AIX, HP-UX]
+    stars: 5
+     
+  - name: [Cloud overlays, Google Cloud, AWS, Microsoft Azure, Digital Ocean, IBM Bluemix, CloudFoundry, Full scale Templatized deployable immutable cloud solutions, CLIs and Cloud APIs, Scaling, Iaas Clusters, Various PaaS on CSPs]
+    stars: 4
+
+  - name: [Hypervisors, Microvisors, KVM, Hyper-V, VMWare, vagrant, Hashicorp tools]
+    stars: 4
+  
+  - name: [Container Management Platforms, Kubernetes/Heptio/GCE, Docker Data Center with Universal Control Plane, Swarm Mode, Rancher, rkt, oci, containerd, etcd, zookeeper, Mesosphere, docker plugins, Docker CE, Red hat Openshift, Registries, container pipelines, Puppet, Ansible,  Jenkins, TeamCity, VSTS, Various CLIs and APIs, SonarQube, Nexus 3, GlusterFS, Container Native Storage]
+    stars: 4
+
+  - name: [DB2, Oracle RDBMS, SQL Server, PostgreSQL, Redis, mongodb]
+    stars: 3
+     
+  - name: [Hadoop Data Platform components, YARN and scheduling, HDFS, Apache Kafka, Apache Phoenix, SparkML, Data Lake Pattens, HDinsights, Livy]
+    stars: 3
+ 
+    
+  
